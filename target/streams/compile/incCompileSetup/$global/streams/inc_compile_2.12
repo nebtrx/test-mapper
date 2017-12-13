@@ -1,0 +1,196 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Another$.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Another.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$1.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$2.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$3.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$MyMappings.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Source$.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Source.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Target$.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Target.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$delayedInit$body.class
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello.class
+binary dependencies:
+4 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/omar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Another
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Another$
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$ExampleMappings$
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$ExampleMappings$$anon$1
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$ExampleMappings$$anon$2
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$ExampleMappings$$anon$3
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$MyMappings
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Source
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Source$
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Target
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$Target$
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$delayedInit$body
+used names:
+68 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> $anon
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> &&
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> <init>
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ==
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> A
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AbstractFunction2
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Another
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Any
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AnyRef
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> App
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> B
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Boolean
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ExampleMappings
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Hello
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> IndexOutOfBoundsException
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Int
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Iterator
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Mapping
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> MyMappings
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> None
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Nothing
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Object
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Option
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> PartialMapping
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Predef
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Product
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ScalaRunTime
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Serializable
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Some
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Source
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Statics
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> String
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T0
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T1
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T2
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Target
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Tuple2
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Unit
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> _root_
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> _toString
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> a
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> anyHash
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> asInstanceOf
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> automap
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> automapper
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> bfil
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> eq
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> finalizeHash
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> io
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> isInstanceOf
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> label
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> materializeMapping
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> mix
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> package
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> println
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> runtime
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> scala
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> source
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> target1
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> target2
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> target3
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> to
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> toString
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> typedProductIterator
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> value
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ||
+product stamps:
+14 items
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Another$.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Another.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$1.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$2.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$$anon$3.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$ExampleMappings$.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$MyMappings.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Source$.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Source.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Target$.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$Target.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$delayedInit$body.class -> lastModified(1513204604000)
+/Users/omar/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello.class -> lastModified(1513204604000)
+source stamps:
+1 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> hash(cda17a989760576c5eda0ff65513f4b012577582)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1505382647000)
+/Users/omar/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar -> lastModified(1496677612000)
+/Users/omar/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar -> lastModified(1496677894000)
+/Users/omar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1509077572000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/omar/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar -> io.bfil.automapper.Mapping
+/Users/omar/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar -> io.bfil.automapper.package$
+/Users/omar/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.App
+internal apis:
+1 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwAnH79AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAxc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj/jY13QABm5vdGlmeXNxAH4ADO2qEGB0AAd1bmFwcGx5c3EAfgAMkGkxwXQAB2N1cnJpZWRzcQB+AAwhSGEVdAAGVGFyZ2V0c3EAfgAMonP8hXQAB3RhcmdldDNzcQB+AAyqZi8kdAAGc291cmNlc3EAfgAM3fQpQnQABHdhaXRzcQB+AAyh6FqWdAAOY29weSRkZWZhdWx0JDJzcQB+AAxZcdeadAANJGFzSW5zdGFuY2VPZnNxAH4ADGTiGrd0AAd0YXJnZXQxc3EAfgAM0mU05nQADHByb2R1Y3RBcml0eXNxAH4ADImTyJB0AAZlcXVhbHNzcQB+AAySjCj0dAAMYXNJbnN0YW5jZU9mc3EAfgAMK5PzznQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMEIfvlXQADHN5bmNocm9uaXplZHNxAH4ADGWz4nJ0AAVsYWJlbHNxAH4ADL1LHt90AA0kaXNJbnN0YW5jZU9mc3EAfgAMwMQ593QABnR1cGxlZHNxAH4ADGQYsXB0AAhjYW5FcXVhbHNxAH4ADPbzUtZ0AARtYWluc3EAfgAM8ooq2HQADXByb2R1Y3RQcmVmaXhzcQB+AAynpIkJdAAJbm90aWZ5QWxsc3EAfgAMfHsXbXQADGlzSW5zdGFuY2VPZnNxAH4ADFcRuQp0AAY8aW5pdD5zcQB+AAzDp2AUdAAFYXBwbHlzcQB+AAwXt3q9dAAGU291cmNlc3EAfgAMfZ++GnQAAj09c3EAfgAMlINVPnQABWNsb25lc3EAfgAMUi6XRnQABUhlbGxvc3EAfgAMzbgqZXQABiRpbml0JHNxAH4ADMQMIj10AARjb3B5c3EAfgAMSEwlLnQACHRvU3RyaW5nc3EAfgAMuYQM/3QABGFyZ3NzcQB+AAzg8uyOdAAHQW5vdGhlcnNxAH4ADK2tj0t0AA9FeGFtcGxlTWFwcGluZ3NzcQB+AAz/YEGXdAAKTXlNYXBwaW5nc3NxAH4ADFJaD2B0AAIhPXNxAH4ADOoaLP90AAhnZXRDbGFzc3NxAH4ADJpu5wF0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJ7L7Uh0AAd0YXJnZXQyc3EAfgAM+N3HyHQAAm5lc3EAfgAMSuUGGXQABXZhbHVlc3EAfgAMIbih73QAAmVxc3EAfgAMrUodmHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADIzB9jN0AAtkZWxheWVkSW5pdHNxAH4ADLHjjdx0AAIjI3NxAH4ADMD4lHN0AAhmaW5hbGl6ZXNxAH4ADMIUUKR0AA5wcm9kdWN0RWxlbWVudHNxAH4ADFgGBwp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA1leGFtcGxlLkhlbGxvdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCUc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHlMAAlpbmhlcml0ZWRxAH4AeUwAB3BhcmVudHNxAH4AeXhxAH4AmXNxAH4AlHVxAH4AdAAAAABzcQB+AJR1cQB+AHQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AHpxAH4Ag3VxAH4AhAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AKN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AmHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCYc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9c3EAfgCGAHEAfgA1dXEAfgCJAAAAAHNxAH4AsHQABFVuaXRxAH4AtnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIx0AAVQbGFpbnEAfgBPc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCxWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCYc3EAfgCwdAAFQXJyYXlxAH4AtnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCwdAAGU3RyaW5nc3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHQABGphdmFzcQB+ALx0AARsYW5ncQB+AMFzcQB+AJR1cQB+ANgAAAAEc3EAfgCwdAADQXBwcQB+ALZzcQB+ALB0AAtEZWxheWVkSW5pdHEAfgC2c3EAfgCwdAAGT2JqZWN0cQB+ANxzcQB+ALB0AANBbnlxAH4AtnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBSBcrSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTNoXqYl2BXbF7aD/ZVE/SwEld1gg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/omar/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFH93VZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFH+/wR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIBQ011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFICfW11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIDc8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIEIgF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIEiVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIFbfl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIFytJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

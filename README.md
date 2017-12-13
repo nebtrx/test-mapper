@@ -1,0 +1,1 @@
+# Test Scala Object Mapper
