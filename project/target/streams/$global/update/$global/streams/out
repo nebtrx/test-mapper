@@ -1,41 +1,17 @@
-[info] Updating {file:/Users/omar/Documents/work/scala/test-mapper/project/}test-mapper-build...
+[info] Updating {file:/Users/nebtrx/Documents/work/scala/test-mapper/project/}test-mapper-build...
 [debug] :: resolving dependencies :: default#test-mapper-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[info] Resolving org.scala-sbt#global-plugins;0.0 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#global-plugins;0.0 {compile=[default(compile)]}
-[debug] 	found org.scala-sbt#global-plugins;0.0 in inter-project
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
@@ -1843,17 +1819,6 @@
 [debug] resolving dependencies for configuration 'compile-internal'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile-internal]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
@@ -3744,38 +3709,12 @@
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [runtime-internal]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [test-internal]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [test]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [runtime]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
-[debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [optional]
 [debug] == resolving dependencies for default#test-mapper-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#test-mapper-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
@@ -6070,19 +6009,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 564ms :: artifacts dl 12ms
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT compile produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-compile.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT runtime produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-runtime.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT test produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-test.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT provided produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-provided.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT optional produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-optional.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT compile-internal produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-compile-internal.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT runtime-internal produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-runtime-internal.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT test-internal produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-test-internal.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT plugin produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-plugin.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT sources produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-sources.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT docs produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-docs.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT pom produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-pom.xml
-[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT scala-tool produced in /Users/omar/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-scala-tool.xml
-[debug] 	resolve done (564ms resolve - 12ms download)
+[debug] :: resolution report :: resolve 1359ms :: artifacts dl 29ms
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT compile produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-compile.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT runtime produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-runtime.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT test produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-test.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT provided produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-provided.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT optional produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-optional.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT compile-internal produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-compile-internal.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT runtime-internal produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-runtime-internal.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT test-internal produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-test-internal.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT plugin produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-plugin.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT sources produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-sources.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT docs produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-docs.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT pom produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-pom.xml
+[debug] 	report for default#test-mapper-build;0.1-SNAPSHOT scala-tool produced in /Users/nebtrx/Documents/work/scala/test-mapper/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-test-mapper-build-scala-tool.xml
+[debug] 	resolve done (1359ms resolve - 29ms download)
 [info] Done updating.
