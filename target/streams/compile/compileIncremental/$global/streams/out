@@ -18,22 +18,15 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.4[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 7036a182, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4802469, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes:/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes:/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar:/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar:/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar[0m
-[0m[[33mwarn[0m] [0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mthere were three feature warnings; re-run with -feature for details[0m
 [0m[[33mwarn[0m] [0mone warning found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.597066409 s[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala...[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] The /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala source file has the following implicit definitions changed:[0m
-[0m[[0mdebug[0m] [0m[naha] 	mapping2, mapping1, sourceToTarget.[0m
-[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.616039556 s[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m

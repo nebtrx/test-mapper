@@ -4,7 +4,7 @@
 		module="test-mapper-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171213223834"
+		publication="20171219221155"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
