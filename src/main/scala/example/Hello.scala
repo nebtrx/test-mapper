@@ -1,5 +1,7 @@
 package example
 
+import MappingConfig._
+
 
 case class Source(label: String, value: Int)
 case class Target(label: String, value: Int, list: List[Int])
@@ -27,17 +29,49 @@ object MyExtensions {
   implicit def nullSafeOption[A](o: Option[A] ) = new NullSafeOption(o)
 }
 
+object MappingConfig {
+  import example.Mapper.Mapping
+  implicit object S2T extends Mapping[Source, Target]((s) => Target(s.label, s.value, List.empty))
+}
+
+object Mapper {
+  class Mapping[S, T](val mapFn: S => T)
+
+  final class MapType[S](source:S) {
+    def toType[T](implicit mapping: Mapping[S, T]): T = mapping.mapFn(source)
+  }
+
+  object MapType {
+    def apply[S](source: S): MapType[S] = new MapType[S](source)
+  }
+
+  final class AutoMapper[S, T](mapping: Mapping[S, T]) {
+    def map(source: S): T = mapping.mapFn(source)
+  }
+
+  object AutoMapper {
+    def map[S, T]( source: S)(implicit mapping: Mapping[S, T]): T = {
+      new AutoMapper[S, T](mapping).map(source)
+    }
+  }
+}
+
 object Hello extends App {
   import Mappings._
   import MyExtensions._
+  import example.Mapper.AutoMapper
 
   val target: Target = Source("Omar", 32)
 
-  println("tadaaaaaa")
   val f = Some(null)
   println(f.mapSafe((c:String) => c.substring(3, 5)).mapSafe((c:String) => c.length))
 
   println("".toOption)
+
+  val t : Target = AutoMapper.map(Source("Omar", 32))
+  val t2  = AutoMapper.map(Source("Omar", 32))
+  println(t)
+  println(t2)
 }
 
 
