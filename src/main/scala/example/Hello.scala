@@ -1,10 +1,20 @@
 package example
 
+import java.util
+
 import MappingConfig._
+import io.bfil.automapper._
+
+import collection.JavaConverters._
+
 
 
 case class Source(label: String, value: Int)
 case class Target(label: String, value: Int, list: List[Int])
+
+
+case class Quote(name: String, amount: Int, items: util.List[String], source: Source)
+case class QuoteDTO(name: String, amount: Int, list: List[String], source: Source)
 
 object Mappings {
   implicit def sourceToTarget(source: Source ):Target =
@@ -72,6 +82,13 @@ object Hello extends App {
   val t2  = AutoMapper.map(Source("Omar", 32))
   println(t)
   println(t2)
+
+
+
+
+  println("WITH AUTOMAPPER")
+  val g = automap(Quote("Omar", 32, util.Arrays.asList("Buenos Aires", "Córdoba", "La Plata"), Source("Omar", 32))).to[QuoteDTO]
+  println(g)
 }
 
 

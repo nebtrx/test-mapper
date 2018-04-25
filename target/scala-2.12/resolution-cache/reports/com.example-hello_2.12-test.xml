@@ -7,7 +7,7 @@
 		revision="0.1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20171213223905"/>
+		date="20180424222041"/>
 	<dependencies>
 		<module organisation="org.scalatest" name="scalatest_2.12">
 			<revision name="3.0.3" status="release" pubdate="20170420043153" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
@@ -58,57 +58,57 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-reflect">
-			<revision name="2.12.4" status="release" pubdate="20171011022224" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.4/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+			<revision name="2.12.4" status="release" pubdate="20171011022224" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.4/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
-				<metadata-artifact status="successful" details="" size="1804" time="260" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.4.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.4.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.pom"/>
-				<caller organisation="io.bfil" name="automapper-macros_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.0"/>
+				<metadata-artifact status="no" details="" size="2825" time="0" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.12.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.pom"/>
 				<caller organisation="org.scalatest" name="scalatest_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.0.3"/>
+				<caller organisation="io.bfil" name="automapper-macros_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.1"/>
 				<caller organisation="org.scalactic" name="scalactic_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.0.3"/>
 				<artifacts>
-					<artifact name="scala-reflect" type="jar" ext="jar" status="successful" details="" size="3587892" time="51800" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar">
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="3587892" time="0" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="io.bfil" name="automapper_2.12">
-			<revision name="0.6.0" status="release" pubdate="20170605105134" resolver="public" artresolver="public" homepage="https://github.com/bfil/scala-automapper" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+			<revision name="0.6.1" status="release" pubdate="20171222133218" resolver="public" artresolver="public" homepage="https://github.com/bfil/scala-automapper" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="1903" time="268" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/ivy-0.6.0.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/ivy-0.6.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/bfil/automapper_2.12/0.6.0/automapper_2.12-0.6.0.pom"/>
-				<caller organisation="com.example" name="hello_2.12" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="0.1.0-SNAPSHOT"/>
+				<metadata-artifact status="successful" details="" size="1903" time="386" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/ivy-0.6.1.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/ivy-0.6.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/bfil/automapper_2.12/0.6.1/automapper_2.12-0.6.1.pom"/>
+				<caller organisation="com.example" name="hello_2.12" conf="test, compile, runtime" rev="0.6.1" rev-constraint-default="0.6.1" rev-constraint-dynamic="0.6.1" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="automapper_2.12" type="jar" ext="jar" status="successful" details="" size="3954" time="263" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/bfil/automapper_2.12/0.6.0/automapper_2.12-0.6.0.jar"/>
+					<artifact name="automapper_2.12" type="jar" ext="jar" status="successful" details="" size="3956" time="391" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/bfil/automapper_2.12/0.6.1/automapper_2.12-0.6.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="io.bfil" name="automapper-macros_2.12">
-			<revision name="0.6.0" status="release" pubdate="20170605104638" resolver="public" artresolver="public" homepage="https://github.com/bfil/scala-automapper" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+			<revision name="0.6.1" status="release" pubdate="20171222132539" resolver="public" artresolver="public" homepage="https://github.com/bfil/scala-automapper" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="1714" time="267" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/ivy-0.6.0.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/ivy-0.6.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/bfil/automapper-macros_2.12/0.6.0/automapper-macros_2.12-0.6.0.pom"/>
-				<caller organisation="io.bfil" name="automapper_2.12" conf="default, compile, runtime, master" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="0.6.0"/>
+				<metadata-artifact status="successful" details="" size="1714" time="372" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/ivy-0.6.1.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/ivy-0.6.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/bfil/automapper-macros_2.12/0.6.1/automapper-macros_2.12-0.6.1.pom"/>
+				<caller organisation="io.bfil" name="automapper_2.12" conf="default, compile, runtime, master" rev="0.6.1" rev-constraint-default="0.6.1" rev-constraint-dynamic="0.6.1" callerrev="0.6.1"/>
 				<artifacts>
-					<artifact name="automapper-macros_2.12" type="jar" ext="jar" status="successful" details="" size="37248" time="583" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/bfil/automapper-macros_2.12/0.6.0/automapper-macros_2.12-0.6.0.jar"/>
+					<artifact name="automapper-macros_2.12" type="jar" ext="jar" status="successful" details="" size="37294" time="600" location="/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/bfil/automapper-macros_2.12/0.6.1/automapper-macros_2.12-0.6.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-library">
-			<revision name="2.12.4" status="release" pubdate="20171011020456" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.4/" downloaded="true" searched="true" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+			<revision name="2.12.4" status="release" pubdate="20171011020456" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.4/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
-				<metadata-artifact status="successful" details="" size="1594" time="267" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.4.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.4.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.pom"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.pom"/>
 				<caller organisation="com.example" name="hello_2.12" conf="test, compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.1.0-SNAPSHOT"/>
-				<caller organisation="io.bfil" name="automapper-macros_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.0"/>
+				<caller organisation="io.bfil" name="automapper_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.1"/>
 				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="2.12.4"/>
-				<caller organisation="io.bfil" name="automapper_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.0"/>
 				<caller organisation="org.scala-lang.modules" name="scala-parser-combinators_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.0.4"/>
 				<caller organisation="org.scala-lang.modules" name="scala-xml_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="1.0.5"/>
 				<caller organisation="org.scalatest" name="scalatest_2.12" conf="default, compile, runtime, master" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.0.3"/>
+				<caller organisation="io.bfil" name="automapper-macros_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="0.6.1"/>
 				<caller organisation="org.scalactic" name="scalactic_2.12" conf="compile, runtime" rev="2.12.4" rev-constraint-default="2.12.4" rev-constraint-dynamic="2.12.4" callerrev="3.0.3"/>
 				<artifacts>
-					<artifact name="scala-library" type="jar" ext="jar" status="successful" details="" size="5247152" time="63462" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar">
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5247152" time="0" location="/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.jar"/>
 					</artifact>
 				</artifacts>

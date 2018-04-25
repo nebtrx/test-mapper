@@ -3,8 +3,8 @@
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes[0m
 [0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.0.jar[0m
-[0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.1.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/nebtrx/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.4.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m

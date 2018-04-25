@@ -19,7 +19,8 @@ name hashing:
 1 items
 0 -> true
 products:
-24 items
+29 items
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$$anon$1.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$delayedInit$body.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello.class
@@ -40,13 +41,19 @@ products:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$NullSafeOption.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$Optionable.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions.class
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Quote$.class
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Quote.class
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/QuoteDTO$.class
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/QuoteDTO.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source$.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target$.class
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target.class
 binary dependencies:
-2 items
+4 items
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.1.jar
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.1.jar
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> /Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
 direct source dependencies:
 0 items
@@ -65,9 +72,10 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-24 items
+29 items
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$$anon$1
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Hello$delayedInit$body
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Mapper
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Mapper$
@@ -86,22 +94,30 @@ class names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.MyExtensions$
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.MyExtensions$NullSafeOption
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.MyExtensions$Optionable
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Quote
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Quote$
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.QuoteDTO
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.QuoteDTO$
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Source
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Source$
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Target
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example.Target$
 used names:
-93 items
+117 items
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> $anon
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> &&
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> <init>
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> <repeated...>
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> <repeated>
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ==
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> A
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AbstractFunction2
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AbstractFunction3
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AbstractFunction4
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Any
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AnyRef
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> App
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Arrays
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> AutoMapper
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> B
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Boolean
@@ -110,6 +126,7 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> IndexOutOfBoundsException
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Int
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Iterator
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> JavaConverters
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> List
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> MapType
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Mapper
@@ -124,8 +141,11 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Object
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Option
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Optionable
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> PartialMapping
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Predef
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Product
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Quote
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> QuoteDTO
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> S
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> S2T
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ScalaRunTime
@@ -139,16 +159,24 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T1
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T2
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T3
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> T4
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Target
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Tuple2
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Tuple3
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Tuple4
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> Unit
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> _root_
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> _toString
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> a
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> amount
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> anyHash
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> anyRefToOptionable
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> apply
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> asInstanceOf
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> asList
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> automap
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> automapper
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> bfil
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> c
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> collection
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> empty
@@ -156,8 +184,12 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> example
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> f
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> finalizeHash
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> g
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> immutable
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> io
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> isInstanceOf
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> items
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> java
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> label
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> length
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> list
@@ -165,7 +197,9 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> mapFn
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> mapSafe
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> mapping
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> materializeMapping
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> mix
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> name
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> nullSafeOption
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> o
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> option
@@ -180,52 +214,63 @@ used names:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> t
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> t2
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> target
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> to
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> toOption
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> toString
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> typedProductIterator
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> util
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> value
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> ||
 product stamps:
-24 items
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$delayedInit$body.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$AutoMapper$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$AutoMapper.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$MapType$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$MapType.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$Mapping.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$S2T$$anonfun$$lessinit$greater$1.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$S2T$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mappings$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mappings.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$NullSafeOption.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$Optionable.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target$.class -> lastModified(1513831472000)
-/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target.class -> lastModified(1513831472000)
+29 items
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$$anon$1.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello$delayedInit$body.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Hello.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$AutoMapper$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$AutoMapper.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$MapType$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$MapType.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper$Mapping.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mapper.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$S2T$$anonfun$$lessinit$greater$1.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig$S2T$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MappingConfig.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mappings$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Mappings.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$NullSafeOption.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions$Optionable.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/MyExtensions.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Quote$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Quote.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/QuoteDTO$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/QuoteDTO.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Source.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target$.class -> lastModified(1524634796000)
+/Users/nebtrx/Documents/work/scala/test-mapper/target/scala-2.12/classes/example/Target.class -> lastModified(1524634796000)
 source stamps:
 1 items
-/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> hash(42fb33b0528ca6b7bf590d0be74dc7e1c91972e0)
+/Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> hash(9e0d39a776a101c5784500acdc603b3abc7e1dbb)
 binary stamps:
-2 items
+4 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.1.jar -> lastModified(1513967139000)
+/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.1.jar -> lastModified(1513967536000)
 /Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
 class names:
-2 items
+4 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nebtrx/.ivy2/cache/io.bfil/automapper-macros_2.12/jars/automapper-macros_2.12-0.6.1.jar -> io.bfil.automapper.Mapping
+/Users/nebtrx/.ivy2/cache/io.bfil/automapper_2.12/jars/automapper_2.12-0.6.1.jar -> io.bfil.automapper.package$
 /Users/nebtrx/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.runtime.AbstractFunction3
 internal apis:
 1 items
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4Cld/wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAZK2THdAADUzJUc3EAfgALTOWdiXQAEmFueVJlZlRvT3B0aW9uYWJsZXNxAH4AC48XXU90AA5udWxsU2FmZU9wdGlvbnNxAH4AC40A6ox0AA5zb3VyY2VUb1RhcmdldHVxAH4ACQAAADtzcQB+AAtDyxmCdAAMTXlFeHRlbnNpb25zc3EAfgALmyNWjnQABm5vdGlmeXNxAH4AC2OkUBh0AAh0b09wdGlvbnNxAH4AC5YWfvR0AAZUYXJnZXRzcQB+AAuBJG5qdAAEd2FpdHNxAH4AC3YoPzx0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC8f6WRN0AA0kYXNJbnN0YW5jZU9mc3EAfgALoZCvAXQAA21hcHNxAH4AC4bfPvt0AAxwcm9kdWN0QXJpdHlzcQB+AAvPFneNdAAGZXF1YWxzc3EAfgALvHl65nQADU1hcHBpbmdDb25maWdzcQB+AAtI7R5DdAABdHNxAH4AC+gJIJp0AAxhc0luc3RhbmNlT2ZzcQB+AAsrk/POdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvvxo+ldAABZnNxAH4AC4en8rB0AAxzeW5jaHJvbml6ZWRzcQB+AAuoU+dodAAFbGFiZWxzcQB+AAskYPBPdAANJGlzSW5zdGFuY2VPZnNxAH4AC739mNl0AAZNYXBwZXJzcQB+AAukiTDUdAAIY2FuRXF1YWxzcQB+AAv281LWdAAEbWFpbnNxAH4AC4ADiKx0AA1wcm9kdWN0UHJlZml4c3EAfgAL01aD0XQAB01hcHBpbmdzcQB+AAviO6gJdAAJbm90aWZ5QWxsc3EAfgALbQvhXHQADGlzSW5zdGFuY2VPZnNxAH4ACyEf+oZ0AAdtYXBTYWZlc3EAfgALTqmBwXQABnRvVHlwZXNxAH4ACyBvqMt0AAJ0MnNxAH4ACyudvul0AAY8aW5pdD5zcQB+AAvDZhlkdAAFYXBwbHlzcQB+AAuGgYF8dAAGU291cmNlc3EAfgALtCMss3QACE1hcHBpbmdzc3EAfgAL0muwYXQAAj09c3EAfgALCY9eIXQABWNsb25lc3EAfgALUi6XRnQABUhlbGxvc3EAfgALGtl5DnQABW1hcEZuc3EAfgALeXX/+3QABiRpbml0JHNxAH4AC7v9lKR0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC+T90NB0AARjb3B5c3EAfgAL7AgYxnQADk51bGxTYWZlT3B0aW9uc3EAfgALxxH0r3QACHRvU3RyaW5nc3EAfgALuYQM/3QABGFyZ3NzcQB+AAssA9+4dAAGdGFyZ2V0c3EAfgALihMdG3QAAiE9c3EAfgALi1obeHQACkF1dG9NYXBwZXJzcQB+AAsQ38budAAIZ2V0Q2xhc3NzcQB+AAuGq+DedAAOY29weSRkZWZhdWx0JDFzcQB+AAvJEHwLdAACbmVzcQB+AAuvvJgJdAAFdmFsdWVzcQB+AAtShTkgdAACZXFzcQB+AAvX+Bb3dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALjMH2M3QAC2RlbGF5ZWRJbml0c3EAfgALNm21sXQAAiMjc3EAfgALRy2YknQABGxpc3RzcQB+AAsSY/i3dAAIZmluYWxpemVzcQB+AAuOM49ddAAOcHJvZHVjdEVsZW1lbnRzcQB+AAu8SmBPdAAIaGFzaENvZGVzcQB+AAthwEg1dAAHTWFwVHlwZXNxAH4AC7Yih1x0AApPcHRpb25hYmxlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAB3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AlXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmV4YW1wbGUuU291cmNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgCzc3EAfgCudXEAfgCQAAAAAHNxAH4ArnVxAH4AkAAAAABzcQB+AK51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMxzcQB+AL9xAH4AwnNxAH4Aw3NxAH4AxnVxAH4AyQAAAANzcQB+AMt0AARqYXZhc3EAfgDLdAACaW9xAH4A0HNxAH4Av3QAB1Byb2R1Y3RxAH4AxXNxAH4Av3QABkVxdWFsc3EA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bHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCWcQB+AJ91cQB+AKAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgGMeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4Av3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgDDc3EAfgDGdXEAfgDJAAAAAnNxAH4Ay3EAfgDOcQB+ANBzcQB+AKIAcQB+AD91cQB+AKUAAAAAc3EAfgC/dAAEVW5pdHEAfgGbdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4BjHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AqHQABVBsYWlucQB+AGlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMBbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALJzcQB+AL90AAVBcnJheXEAfgGbdXEAfgC9AAAAAXNxAH4Av3QABlN0cmluZ3NxAH4Aw3NxAH4AxnVxAH4AyQAAAANzcQB+AMtxAH4A1nNxAH4Ay3EAfgDkcQB+ANBzcQB+AK51cQB+AL0AAAAEc3EAfgC/dAADQXBwcQB+AZtzcQB+AL90AAtEZWxheWVkSW5pdHEAfgGbc3EAfgC/cQB+AN5xAH4BuHNxAH4Av3EAfgDmcQB+AZt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgd2MEjnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEgvVXNlcnMvbmVidHJ4L0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRC+zOwUoymt79ZDQvnTcfhyRly4A==
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNi9hQAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAARzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAZK2THdAADUzJUc3EAfgALTOWdiXQAEmFueVJlZlRvT3B0aW9uYWJsZXNxAH4AC48XXU90AA5udWxsU2FmZU9wdGlvbnNxAH4AC40A6ox0AA5zb3VyY2VUb1RhcmdldHVxAH4ACQAAAENzcQB+AAtDyxmCdAAMTXlFeHRlbnNpb25zc3EAfgALcgrTBnQABm5vdGlmeXNxAH4AC2OkUBh0AAh0b09wdGlvbnNxAH4AC6egsy90AARuYW1lc3EAfgALlhZ+9HQABlRhcmdldHNxAH4AC8713Xd0AAZzb3VyY2VzcQB+AAvdSExFdAAEd2FpdHNxAH4AC4kNeQ10AA5jb3B5JGRlZmF1bHQkMnNxAH4ACyQhtMt0AA0kYXNJbnN0YW5jZU9mc3EAfgALoZCvAXQAA21hcHNxAH4AC9u2nOF0AAxwcm9kdWN0QXJpdHlzcQB+AAv2Lf8NdAAGZXF1YWxzc3EAfgALvHl65nQADU1hcHBpbmdDb25maWdzcQB+AAtI7R5DdAABdHNxAH4AC0xzSA90AAxhc0luc3RhbmNlT2ZzcQB+AAsrk/POdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAvvxo+ldAABZnNxAH4AC8vABCZ0AAxzeW5jaHJvbml6ZWRzcQB+AAuoU+dodAAFbGFiZWxzcQB+AAsTYWnBdAAFaXRlbXNzcQB+AAtMy+1QdAAIUXVvdGVEVE9zcQB+AAvnWorjdAANJGlzSW5zdGFuY2VPZnNxAH4AC739mNl0AAZNYXBwZXJzcQB+AAtElwEEdAAIY2FuRXF1YWxzcQB+AAvvXkrqdAAOY29weSRkZWZhdWx0JDRzcQB+AAv281LWdAAEbWFpbnNxAH4ACz6Tv+l0AA1wcm9kdWN0UHJlZml4c3EAfgAL01aD0XQAB01hcHBpbmdzcQB+AAuAOX8ydAAJbm90aWZ5QWxsc3EAfgALp53IvnQABmFtb3VudHNxAH4AC4HjTth0AAxpc0luc3RhbmNlT2ZzcQB+AAshH/qGdAAHbWFwU2FmZXNxAH4AC06pgcF0AAZ0b1R5cGVzcQB+AAsgb6jLdAACdDJzcQB+AAv//tXVdAAGPGluaXQ+c3EAfgALw2YZZHQABWFwcGx5c3EAfgALKWnDO3QAAWdzcQB+AAuGgYF8dAAGU291cmNlc3EAfgALtCMss3QACE1hcHBpbmdzc3EAfgALd91MhHQAAj09c3EAfgAL4eAq7HQABWNsb25lc3EAfgALUi6XRnQABUhlbGxvc3EAfgALGtl5DnQABW1hcEZuc3EAfgALf28ymnQABiRpbml0JHNxAH4AC8fHwxR0AAVRdW90ZXNxAH4ACxvMNLl0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC817YlV0AARjb3B5c3EAfgAL7AgYxnQADk51bGxTYWZlT3B0aW9uc3EAfgAL6NjWL3QACHRvU3RyaW5nc3EAfgALuYQM/3QABGFyZ3NzcQB+AAssA9+4dAAGdGFyZ2V0c3EAfgAL7d/dyHQAAiE9c3EAfgALi1obeHQACkF1dG9NYXBwZXJzcQB+AAsReY6jdAAIZ2V0Q2xhc3NzcQB+AAvb4hUxdAAOY29weSRkZWZhdWx0JDFzcQB+AAsMiIGjdAACbmVzcQB+AAuvvJgJdAAFdmFsdWVzcQB+AAt6xW9ydAACZXFzcQB+AAsEF1fWdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALjMH2M3QAC2RlbGF5ZWRJbml0c3EAfgALAMAF4XQAAiMjc3EAfgALzl+IR3QABGxpc3RzcQB+AAvWn0zydAAIZmluYWxpemVzcQB+AAtSV+WWdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtMUcI0dAAIaGFzaENvZGVzcQB+AAthwEg1dAAHTWFwVHlwZXNxAH4AC7Yih1x0AApPcHRpb25hYmxlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ApXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmV4YW1wbGUuU291cmNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AL5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ApUwACWluaGVyaXRlZHEAfgClTAAHcGFyZW50c3EAfgCleHEAfgDDc3EAfgC+dXEAfgCgAAAAAHNxAH4AvnVxAH4AoAAAAABzcQB+AL51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5o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5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AKZxAH4Ar3VxAH4AsAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+Aeh4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgDPdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ANNzcQB+ANZ1cQB+ANkAAAACc3EAfgDbcQB+AN5xAH4A4HNxAH4AsgBxAH4ASXVxAH4AtQAAAABzcQB+AM90AARVbml0cQB+Afd1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgHoeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgC4dAAFUGxhaW5xAH4AeXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A0FsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AwnNxAH4Az3QABUFycmF5cQB+Afd1cQB+AM0AAAABc3EAfgDPdAAGU3RyaW5nc3EAfgDTc3EAfgDWdXEAfgDZAAAAA3NxAH4A23EAfgDmc3EAfgDbcQB+APRxAH4A4HNxAH4AvnVxAH4AzQAAAARzcQB+AM90AANBcHBxAH4B93NxAH4Az3QAC0RlbGF5ZWRJbml0cQB+AfdzcQB+AM9xAH4A7nEAfgIUc3EAfgDPcQB+APZxAH4B93VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWL7UKocdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ4NOad2oQHFeEUArNxgOzq8fh27
 external apis:
 0 items
 source infos:
@@ -233,7 +278,7 @@ source infos:
 /Users/nebtrx/Documents/work/scala/test-mapper/src/main/scala/example/Hello.scala -> 
 AAAAAAAAAAA=
 compilations:
-31 items
+35 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFH93VZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFH+/wR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYFIBQ011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9vbWFyL0RvY3VtZW50cy93b3JrL3NjYWxhL3Rlc3QtbWFwcGVyL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
@@ -265,3 +310,7 @@ compilations:
 28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYHdhodl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYHdiXmV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYHdjBI51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYRJaxY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYvrT3r51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYvraxD91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYvtQqhx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASC9Vc2Vycy9uZWJ0cngvRG9jdW1lbnRzL3dvcmsvc2NhbGEvdGVzdC1tYXBwZXIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
